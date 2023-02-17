@@ -7,6 +7,4 @@ Para rodar o projeto e necessário:
 
 - Clonar repósitorio.
 - Iniciar node.js utilizando "Npm init"
-- Ainda no terminal, node tindividual.js para rodar o projeto no próprio terminal.
-
-
+- Ainda no terminal, node tindividual.js para rodar o projeto no próprio terminal
